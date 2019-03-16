@@ -1,0 +1,12 @@
+In this project, we aim to predict a business's stars rating using the reviews of that business and review
+count based on neural network implementation in Tensorflow. This project is twofold:
+• Task 1: Consider this problem as a regression problem. Compare the RMSE of the BEST
+Tensorflow regression neural network model you obtained with that of regression model you
+achieved in the last project.
+• Task 2: Consider this problem as a classification problem. Compare the accuracy of the BEST
+Tensorflow classification neural network model you obtained with that of each classification
+model you achieved in the last project.
+2. Dataset (30 pts)
+https://www.yelp.com/dataset/download
+This set includes information about local businesses in 10 metropolitan areas across 2 countries. The
+dataset contain several json files.
